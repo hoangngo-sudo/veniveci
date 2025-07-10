@@ -26,7 +26,7 @@ const CatHistory = ({ catHistory, onSelectCat }) => {
           ))
         ) : (
           <div>
-            <h3>No cat history yet</h3>
+            <p>No cat history yet</p>
           </div>
         )}
       </div>
